@@ -37,7 +37,7 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Skills and Tools</h3>
 <p align="left">
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Bootstrap" width="40" height="40"/>
@@ -56,8 +56,10 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay1836&show_icons=true&locale=en&layout=compact" alt="akshay1836" /></p>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay1836&show_icons=true&locale=en" alt="akshay1836" /></p>
+<b>GitHub Stats</b>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay1836&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akshay1836" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1836&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="akshay1836" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay1836&" alt="akshay1836" /></p>
+
