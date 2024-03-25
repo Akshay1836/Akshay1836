@@ -15,7 +15,7 @@
   <a href="mailto:akshayvm36@gmail.com">
     <img src="https://img.shields.io/badge/Email-akshayvm36%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Akshay vm" target="https://www.linkedin.com/in/akshay-v-m-38aab8234/">
+  <a href="https://www.linkedin.com/in/akshay-v-m-38aab8234/" target="https://www.linkedin.com/in/akshay-v-m-38aab8234/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20vm-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/Akshay_vm18" target="blank">
