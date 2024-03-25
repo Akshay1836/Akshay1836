@@ -15,7 +15,7 @@
   <a href="mailto:akshayvm36@gmail.com">
     <img src="https://img.shields.io/badge/Email-akshayvm36%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Akshay vm" target="blank">
+  <a href="https://linkedin.com/in/Akshay vm" target="https://www.linkedin.com/in/akshay-v-m-38aab8234/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20vm-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/Akshay_vm18" target="blank">
@@ -32,7 +32,7 @@
 <!-- Connect with Me -->
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/akshay vm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay vm" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/akshay-v-m-38aab8234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay vm" height="30" width="40" /></a>
   <a href="https://instagram.com/akshay_vm18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay_vm18" height="30" width="40" /></a>
 </p>
 
