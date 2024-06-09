@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- About Me -->
+<!-- About -->
 <h3 align="left">About Me</h3>
 <p align="left">
   🌟 Hello! I'm Akshay, a dedicated MERN Stack developer with a strong passion for creating dynamic and responsive web applications. I love turning ideas into reality through code and constantly strive to learn and grow in this ever-evolving field.
