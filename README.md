@@ -3,7 +3,7 @@
   <img width="100%" src="https://github.com/Akshay1836/Akshay1836/blob/main/github-header-image%20-final.png" alt="Banner" />
 </p>
 
-<!-- Introductio -->
+<!-- Introduction -->
 <h1 align="left">Hi there! 👋 I'm Akshay V M </h1>
 <h3 align="left">MERN Stack Developer</h3>
 
