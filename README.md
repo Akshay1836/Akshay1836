@@ -49,5 +49,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay1836&langs_count=10&theme=tokyonight&hide_border=true&border_radius=5&locale=en&custom_title=Top%20%Languages" alt="akshay1836" /></p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay1836&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Akshay1836&theme=blue-green" alt="GitHub Streak" /></a>
 </p>
