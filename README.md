@@ -4,7 +4,7 @@
 </p> 
 
 <!-- Introduction -->
-<h1 align="left">Hi there 👋 I'm Akshay V M </h1>
+<h1 align="left">Hello world 👋 I'm Akshay V M </h1>
 <h3 align="left">MERN Stack Developer</h3>
 
 
